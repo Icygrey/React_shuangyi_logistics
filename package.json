@@ -8,6 +8,7 @@
     "antd": "^3.0.0",
     "classnames": "^2.2.5",
     "enquire-js": "^0.1.0",
+    "node-sass": "^7.0.1",
     "prop-types": "^15.6.0",
     "rc-queue-anim": "^1.4.0",
     "rc-scroll-anim": "^2.1.0",
