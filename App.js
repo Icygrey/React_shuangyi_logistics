@@ -30,28 +30,3 @@ function App() {
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
-
-// return <Home />;
-
-// <Router>
-// <Switch>
-//   <Route exact path="/">
-//     <Home />
-//   </Route>
-
-//   <Route path="/aboutUs">
-//     <AboutUs />
-//   </Route>
-// </Switch>
-// </Router>
-
-// /* <span
-// style={{
-//   display: "inline-block",
-//   position: "relative",
-//   top: -2,
-//   width: 18,
-// }}
-// >
-// <Badge dot />
-// </span> */
